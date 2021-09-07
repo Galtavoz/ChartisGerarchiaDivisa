@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <infusi nome="Let me die" confezioneRegalo="No" ingredienti="foglie di the,hemp,fiori di calendula,fiori di sambuco,fiori di camomilla" peso="1" erba="Si" produzione="No" aroma="Albicocca,Menta" sfuso="No"/>
+    <biscotti nome="Granny Cookies" confezioneRegalo="Si" ingredienti="farina,uova,burro,zucchero,hemp" peso="2" erba="Si" produzione="Si" farina="4" gocceCioccolata="1"/>
+    <bong nome="90 60 90" confezioneRegalo="No" colori="Fucsia" forma="Si" altezza="5" larghezza="4.6"/>
+    <infusi nome="Groot" confezioneRegalo="Si" ingredienti="foglie di the,hemp,fiori di calendula,fiori di sambuco,fiori di camomilla" peso="1.5" erba="Si" produzione="No" aroma="Limone,Menta" sfuso="No"/>
+    <bong nome="Aspira che ti passa" confezioneRegalo="No" colori="Bianco" forma="No" altezza="2" larghezza="4.1"/>
+    <grinder nome="6x6" confezioneRegalo="No" colori="Viola" ndenti="36" raccoglipolline="No"/>
+    <biscotti nome="Cheep Cookies" confezioneRegalo="No" ingredienti="farina,uova,burro,zucchero,hemp" peso="0.75" erba="No" produzione="Si" farina="5" gocceCioccolata="3"/>
+    <bong nome="Mushu" confezioneRegalo="Si" colori="Oro" forma="Si" altezza="6" larghezza="4.6"/>
+    <infusi nome="Ba Sing Se" confezioneRegalo="No" ingredienti="foglie di the,hemp,fiori di calendula,fiori di sambuco,fiori di camomilla" peso="3" erba="Si" produzione="No" aroma="Menta,Zenzero" sfuso="No"/>
+    <grinder nome="Toothless" confezioneRegalo="No" colori="Blu" ndenti="6" raccoglipolline="Si"/>
+    <biscotti nome="Dottor Scotti" confezioneRegalo="Si" ingredienti="farina,uova,burro,zucchero,hemp" peso="3.4" erba="No" produzione="Si" farina="2" gocceCioccolata="4"/>
+    <cioccolata nome="Balls of happiness" confezioneRegalo="No" ingredienti="cioccolato,burro,zucchero,hemp" peso="1" erba="Si" produzione="Si" tipoGranella="2" livelloFondenza="2" forma="No"/>
+    <cioccolata nome="Hard Almond" confezioneRegalo="Si" ingredienti="cioccolato,burro,zucchero,hemp" peso="1" erba="Si" produzione="Si" tipoGranella="3" livelloFondenza="4" forma="Si"/>
+    <bong nome="Dyson" confezioneRegalo="No" colori="Verde" forma="Si" altezza="6" larghezza="4.6"/>
+    <cioccolata nome="Cocoa Dream" confezioneRegalo="No" ingredienti="cioccolato,burro,zucchero,hemp" peso="0.5" erba="Si" produzione="Si" tipoGranella="1" livelloFondenza="1" forma="No"/>
+    <infusi nome="The Ambassador" confezioneRegalo="Si" ingredienti="foglie di the,hemp,fiori di calendula,fiori di sambuco,fiori di camomilla" peso="12" erba="No" produzione="Si" aroma="Zenzero,Liquirizia" sfuso="Si"/>
+    <grinder nome="Er magnifico Grinder" confezioneRegalo="No" colori="Viola" ndenti="24" raccoglipolline="Si"/>
+    <biscotti nome="Fake Gocciole" confezioneRegalo="No" ingredienti="farina,uova,burro,zucchero,hemp" peso="0.5" erba="Si" produzione="Si" farina="1" gocceCioccolata="2"/>
+    <vaporizzatore nome="Eyjafjallajokull" confezioneRegalo="No" colori="Bianco" velocitaEvaporazione="1" capienza="2" schermo="Si"/>
+    <grinder nome="Gorgoroth" confezioneRegalo="No" colori="Oro" ndenti="30" raccoglipolline="No"/>
+    <vaporizzatore nome="Popocatépetl" confezioneRegalo="Si" colori="Verde" velocitaEvaporazione="2" capienza="4" schermo="Si"/>
+    <infusi nome="Lovegood" confezioneRegalo="No" ingredienti="foglie di the,hemp,fiori di calendula,fiori di sambuco,fiori di camomilla" peso="0.4" erba="No" produzione="No" aroma="Albicocca" sfuso="No"/>
+    <cioccolata nome="Deku" confezioneRegalo="Si" ingredienti="cioccolato,burro,zucchero,hemp" peso="0.25" erba="Si" produzione="No" tipoGranella="3" livelloFondenza="3" forma="Si"/>
+    <bong nome="Bilbo" confezioneRegalo="Si" colori="Verde" forma="No" altezza="3" larghezza="5.3"/>
+    <vaporizzatore nome="Etna" confezioneRegalo="No" colori="Viola" velocitaEvaporazione="3" capienza="3" schermo="Si"/>
+    <biscotti nome="Fake Castagnaccio" confezioneRegalo="No" ingredienti="Farina,uova,burro,zucchero,hemp" peso="0.45" erba="No" produzione="No" farina="4" gocceCioccolata="4"/>
+    <cioccolata nome="Fake Rocher" confezioneRegalo="Si" ingredienti="Cioccolato, burro, zucchero, hemp" peso="0.25" erba="Si" produzione="Si" tipoGranella="4" livelloFondenza="2" forma="No"/>
+    <vaporizzatore nome="O'Vesuvio" confezioneRegalo="No" colori="Rosso" velocitaEvaporazione="0" capienza="2" schermo="No"/>
+    <vaporizzatore nome="Krakatoa" confezioneRegalo="Si" colori="Verde" velocitaEvaporazione="2" capienza="4" schermo="Si"/>
+    <grinder nome="Birello" confezioneRegalo="Si" colori="Giallo" ndenti="36" raccoglipolline="No"/>
+</root>
