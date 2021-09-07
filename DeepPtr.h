@@ -24,7 +24,8 @@ deepPtr<T>::deepPtr(T* ptr) : d_Ptr(ptr) {}//costruttore
 
 template <class T>//costruttore di copia profonda
 deepPtr<T>::deepPtr(const deepPtr& dptr){
-    d_Ptr=dptr.d_Ptr->clone();
+    if(dptr.d_Ptr != nullptr) d_Ptr=dptr.d_Ptr->clone();
+    else d_Ptr=nullptr;
 }
 
 template <class T>//distruttore profondo
